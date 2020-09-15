@@ -1,4 +1,4 @@
 
 public static void main(String[] args){
-  System.out.println("Hi"0;
+  System.out.println("Hi");
 }
